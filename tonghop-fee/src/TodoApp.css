@@ -1,0 +1,11 @@
+#guide{
+    font-size: larger;
+}
+
+.todo{
+    border: 1px solid;
+    width: 200px;
+    margin:auto;
+    background-color: rgb(181, 209, 192);
+    
+}

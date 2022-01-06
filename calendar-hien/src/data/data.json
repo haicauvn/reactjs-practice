@@ -1,0 +1,118 @@
+[
+  {
+    "day": 1,
+    "meetings": [
+      {
+        "id": 1,
+        "titile": "Daily Meeting",
+        "startTime": "10:30",
+        "endTime": "11:30"
+      },
+      {
+        "id": 2,
+        "titile": "Quickly Meeting with Mike",
+        "startTime": "13:30",
+        "endTime": "15:30"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "meetings": []
+  },
+  {
+    "day": 3,
+    "meetings": []
+  },
+  {
+    "day": 4,
+    "meetings": []
+  },
+  {
+    "day": 5,
+    "meetings": []
+  },
+  {
+    "day": 6,
+    "meetings": []
+  },
+  {
+    "day": 7,
+    "meetings": []
+  },
+  {
+    "day": 8,
+    "meetings": []
+  },
+  {
+    "day": 9,
+    "meetings": []
+  },
+  {
+    "day": 10,
+    "meetings": [
+      {
+        "id": 3,
+        "titile": "Daily Meeting",
+        "startTime": "11:35",
+        "endTime": "12:30"
+      },
+      {
+        "id": 4,
+        "titile": "Quickly Meeting with Mike",
+        "startTime": "14:30",
+        "endTime": "16:20"
+      },
+      {
+        "id": 5,
+        "titile": "Quickly Meeting with Mike",
+        "startTime": "14:30",
+        "endTime": "16:20"
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "meetings": []
+  },
+  {
+    "day": 12,
+    "meetings": []
+  },
+  {
+    "day": 13,
+    "meetings": []
+  },
+  {
+    "day": 14,
+    "meetings": []
+  },
+  {
+    "day": 15,
+    "meetings": []
+  },
+  {
+    "day": 16,
+    "meetings": []
+  },
+  {
+    "day": 17,
+    "meetings": []
+  },
+  {
+    "day": 18,
+    "meetings": []
+  },
+  {
+    "day": 19,
+    "meetings": []
+  },
+  {
+    "day": 20,
+    "meetings": []
+  },
+  {
+    "day": 21,
+    "meetings": []
+  }
+]

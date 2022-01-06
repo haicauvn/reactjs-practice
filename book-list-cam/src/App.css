@@ -1,0 +1,49 @@
+.main{
+  padding: 30px 20px;
+}
+.transaction-list{
+  margin: 20px 0;
+  border:  1px solid #0000ff;
+  
+}
+.Transaction-container{
+  padding: 0 10px;
+}
+.heading{
+  text-align: center;
+  padding: 5px 0;
+  background-color: #0000ff;
+  color: white;
+}
+.transaction-item{
+  border: 1px solid red;
+  margin: 10px 0;
+  
+}
+.item-heading{
+  background-color: #28a745;
+}
+.heading-form{
+  text-align: center;
+}
+.form-transaction{
+  width: 500px;
+  margin: 0 40px;
+}
+.form-btn{
+  text-align: center;
+}
+.form-btn button {
+  margin: 0 5px;
+}
+.item-heading{
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 10px;
+}
+.item-heading a {
+  margin-left: 5px;
+}
+.item-heading a i {
+  color: white ;
+}

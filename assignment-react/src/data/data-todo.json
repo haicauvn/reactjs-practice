@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "titile" : "Wake up",
+        "is_completed" : false
+    },
+    {
+        "id" : 2,
+        "titile" : "Go to sleep",
+        "is_completed" : true
+    },
+    {
+        "id" : 3,
+        "titile" : "Eat ice",
+        "is_completed" : false
+    }
+]

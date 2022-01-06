@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "first_name" : "Belia",
+        "last_name" : "Guly",
+        "email" : "bguly@51.la",
+        "gender" : "Female",
+        "birth_day" : "02/06/1983",
+        "salary" : 9693,
+        "phone" : "(+84)2746779656"
+    },
+    {
+        "id" : 2,
+        "first_name" : "RosayLynd",
+        "last_name" : "Gerrelts",
+        "email" : "gerels1@weibo.la",
+        "gender" : "Female",
+        "birth_day" : "01/04/1993",
+        "salary" : 8412,
+        "phone" : "(+84)656779613"
+    },
+    {
+        "id" : 3,
+        "first_name" : "Khalil",
+        "last_name" : "Joppich",
+        "email" : "joppich2@marketwatch.com",
+        "gender" : "Male",
+        "birth_day" : "30/06/1991",
+        "salary" : 7291,
+        "phone" : "(+84)12346779656"
+    },
+    {
+        "id" : 4,
+        "first_name" : "Eric",
+        "last_name" : "Cobbled",
+        "email" : "ecobbled@last.fm",
+        "gender" : "Male",
+        "birth_day" : "06/01/1989",
+        "salary" : 9693,
+        "phone" : "(+84)68946779656"
+    },
+    {
+        "id" : 5,
+        "first_name" : "Jerry",
+        "last_name" : "Hucks",
+        "email" : "jhuck@euqirethisname.com",
+        "gender" : "Male",
+        "birth_day" : "21/10/1983",
+        "salary" : 6994,
+        "phone" : "(+84)3946779656"
+    }
+]

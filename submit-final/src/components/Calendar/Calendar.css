@@ -1,0 +1,42 @@
+h2 {
+    /* color: red; */
+}
+
+.day-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    min-height: 50px;
+}
+
+.day-box {
+    /* display: flex; */
+    width: 140px;
+    min-height: 140px;
+}
+
+.day-title-box {
+    width: 142px;
+    min-height: 20px;
+    text-align: center;
+}
+
+.day-box p {
+    font-size: 10px;
+}
+
+.icon-btn {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.meet-box {
+    display: flex;
+    font-size: 10px;
+}
+
+.meet-box .title-meet {
+    width: 90px;
+}

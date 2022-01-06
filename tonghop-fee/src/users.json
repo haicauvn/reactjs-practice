@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "firstName": "Jenny",
+      "lastName": "Chan",
+      "gender": "Female",
+      "birthDay": "02/06/1983",
+      "salary": "9693",
+      "phoneNumber": "3339627516",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Rosalynd",
+      "lastName": "Gerrelts",
+      "gender": "Female",
+      "birthDay": "01/04/1964",
+      "salary": "8645",
+      "phoneNumber": "0112117516",
+      "email": "jessica.warren@email.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Tony",
+      "lastName": "Frank",
+      "gender": "Male",
+      "birthDay": "12/04/1974",
+      "salary": "8325",
+      "phoneNumber": "15412112516",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Jeremy",
+      "lastName": "Clark",
+      "gender": "Male",
+      "birthDay": "12/04/1991",
+      "salary": "2455",
+      "phoneNumber": "0121962111",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Raymond ",
+      "lastName": "Edwards",
+      "gender": "Male",
+      "birthDay": "12/04/1991",
+      "salary": "3255",
+      "phoneNumber": "32319627516",
+      "email": "raymon.edwards@email.com"
+    }
+  ]
+  

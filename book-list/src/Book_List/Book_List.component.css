@@ -1,0 +1,8 @@
+.color-row{
+    background-color: #fafafa;
+    color: #199bee;
+}
+tr[data-selected='true'] {
+    background-color: #fafafa;
+    color: #199bee;
+  }

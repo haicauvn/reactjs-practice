@@ -1,0 +1,32 @@
+[
+  {
+    "id" :  1,
+    "name": "Food one A",
+    "category": "Food",
+    "price" : "100"
+  },
+  {
+    "id" :  2,
+    "name": "Desert one B",
+    "category": "Desert",
+    "price" : "100"
+  },
+  {
+    "id" :  3,
+    "name": "Drink one C",
+    "category": "Drink",
+    "price" : "15"
+  },
+  {
+    "id" :  4,
+    "name": "Food two D",
+    "category": "Food",
+    "price" : "10"
+  },
+  {
+    "id" :  5,
+    "name": "Desert two E",
+    "category": "Desert",
+    "price" : "120"
+  }
+]

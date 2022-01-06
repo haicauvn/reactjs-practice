@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "The Love of Floor",
+        "type": "Book Love",
+        "author": "Mr.fuji",
+        "price": 5000,
+        "publibDate": "29 Jul 1994",
+        "isActive": false
+    },
+    {
+        "id": 2,
+        "title": "The Love of Floor 2",
+        "type": "Book Love",
+        "author": "Mr.fuji",
+        "price": 5000,
+        "publibDate": "29 Jul 1994",
+        "isActive": false
+    },
+    {
+        "id": 3,
+        "title": "The Love of Floor 3",
+        "type": "Book Love",
+        "author": "Mr.fuji",
+        "price": 5000,
+        "publibDate": "29 Jul 1994",
+        "isActive": false
+    }
+]
